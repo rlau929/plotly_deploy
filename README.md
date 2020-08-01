@@ -6,7 +6,7 @@ In Module 12, we learned how to apply JavaScript and HTML to create an interacti
 ## Challenges:
 The challenges I faced were extracting data from the "samples" array. I've went into TA's office hours and asked questions in Slack for help from other classmates. For example, my code would be:
 ```var x = ["sample_values"];```
-but the actual code should adjusted to: ```var x = resultArray[0]["sample_values"];```
+but the actual code should be adjusted to: ```var x = resultArray[0]["sample_values"];```
 
 ## Link to GitHub Pages:
 The link to the GitHub Pages: https://rlau929.github.io/plotly_deploy/
