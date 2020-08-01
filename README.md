@@ -4,7 +4,7 @@
 In Module 12, we learned how to apply JavaScript and HTML to create an interactive webpage to extract data from samples.json file. Attached is the image of the final results of the webpage. I recommend adding more bootstrap elements to make the webpage more glamorous. For example, we could apply a dark background image by using <class="bg-dark"> to the body tag. If a company is collecting similar data and presenting the information on a webpage, we could also web scrape the information and present it in our index.html. 
 
 ## Challenges:
-The challenges I faced were extracting data from the "samples" array. I've went into TA's office hours and asked questions for help. For example, my code would be:
+The challenges I faced were extracting data from the "samples" array. I've went into TA's office hours and asked questions in Slack for help from other classmates. For example, my code would be:
 ```var x = ["sample_values"];```
 but the actual code should adjusted to: ```var x = resultArray[0]["sample_values"];```
 
